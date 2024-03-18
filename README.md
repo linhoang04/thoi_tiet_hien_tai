@@ -1,2 +1,16 @@
-# thoi_tiet_hien_tai
-kéo api sử dụng tên các thành phố để tìm kiếm, sau khi đã chọn được thành phố chuyển sang màn thời tiết, sẽ hiển thị các số hiệu thời thời tiết tại thành phố đó.
+# project1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
